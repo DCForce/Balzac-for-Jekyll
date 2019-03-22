@@ -1,6 +1,7 @@
 title:            Balzac
 tagline:          A beautiful theme.
 description:      Describe your website.
+baseurl:          'Balzac-for-Jekyll/'
 
 # Owner/author information
 owner:
